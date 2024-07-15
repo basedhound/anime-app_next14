@@ -14,9 +14,9 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-**[EN]** Explore your favorite anime with ease in this Next.js application powered by the Anime API. Discover new shows, enjoy seamless scrolling through an extensive anime database, and experience smooth transitions with Framer Motion.
+**[EN]** Explore your favorite anime with this Next.js application powered by Shikimori API. Discover new shows, enjoy seamless scrolling through an extensive anime database, and experience smooth transitions with Framer Motion.
 
-**[FR]** Découvrez vos animes préférés facilement dans cette application Next.js alimentée par l'API Anime. Explorez de nouveaux spectacles, profitez d'un défilement fluide à travers une vaste base de données d'animes et vivez des transitions harmonieuses avec Framer Motion.
+**[FR]** Explorez vos animes préférés facilement avec cette application Next.js alimentée par l'API Shikimori. Décrouvrez de nouvelles séries, profitez d'un défilement fluide à travers une vaste base de données d'animes et d'animations modernes avec Framer Motion.
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
