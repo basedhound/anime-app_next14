@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://animedb-fv.netlify.app" target="_blank">
-      <img src="public/design/preview.webp" alt="Project Banner">
+      <img src="public/design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Anime DB</h3>
 </div>
@@ -20,15 +20,15 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
+- [**React**](https://react.dev/reference/react) is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
 
-- **Next.js** is a React framework known for its server-side rendering (SSR) and static site generation (SSG) capabilities, enhancing performance and SEO for web applications. It offers features like automatic code splitting, API routes for server-side logic, and a plugin system for extensibility.
+- [**Next.js**](https://nextjs.org/docs) is a React framework known for its server-side rendering (SSR) and static site generation (SSG) capabilities, enhancing performance and SEO for web applications. It offers features like automatic code splitting, API routes for server-side logic, and a plugin system for extensibility.
 
-- **Server Actions** in Next.js leverage its server-side rendering (SSR) capabilities to handle server-side logic efficiently. Next.js allows developers to implement robust backend functionalities using API routes. These routes enable seamless integration of server-side operations, such as data fetching, processing form submissions, and executing backend tasks securely. Next.js enhances application performance by optimizing server-side execution and providing a scalable architecture for building dynamic web applications.
+- [**Server Actions**](https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations) in Next.js leverage its server-side rendering (SSR) capabilities to handle server-side logic efficiently. Next.js allows developers to implement robust backend functionalities using API routes. These routes enable seamless integration of server-side operations, such as data fetching, processing form submissions, and executing backend tasks securely. Next.js enhances application performance by optimizing server-side execution and providing a scalable architecture for building dynamic web applications.
 
-- **TypeScript** is a statically typed superset of JavaScript that allows for early detection of errors and more robust, maintainable code. TypeScript's type system helps developers catch mistakes early during the development process, ensuring a more stable and reliable application.
+- [**TypeScript**](https://www.typescriptlang.org/docs/) is a statically typed superset of JavaScript that allows for early detection of errors and more robust, maintainable code. TypeScript's type system helps developers catch mistakes early during the development process, ensuring a more stable and reliable application.
 
-- **Framer Motion** is a React animation library designed for creating smooth, interactive animations and transitions. It simplifies complex animations with a straightforward API, supports gesture-based interactions, and offers physics-based animations for realistic motion effects.
+- [**Framer Motion**](https://www.framer.com/motion/) is a React animation library designed for creating smooth, interactive animations and transitions. It simplifies complex animations with a straightforward API, supports gesture-based interactions, and offers physics-based animations for realistic motion effects.
 
 
 
